@@ -1,0 +1,14 @@
+header {
+    font-size: 25px;
+    font: bold;
+    padding: 20px;
+}
+body {
+    text-align: center;
+    font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+p {
+    padding: 20px;
+}
